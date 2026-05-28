@@ -1,2 +1,1 @@
-# UseSkillPatch
-Данный патч решает проблемы с биндом скиллов, ставя данный патч, у вас будут скиллы на +use бинд, по дефолту это кнопка E.
+upload UseSkillPatch.dll in /game/csgo/addons/counterstrikesharp/plugins/UseSkillPatch
